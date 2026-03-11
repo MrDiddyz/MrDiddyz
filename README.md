@@ -1,4 +1,4 @@
-#MrDiddyz
+MrDiddyz
 
 Founder of MurMur
 
@@ -12,7 +12,7 @@ Projects
 MurMur
 MurMur Core Engine
 MurMur Cloud Terminal
-MurMur Constellation# Hi there 👋
+MurMur Constellation
 
 <!--
 **MrDiddyz/MrDiddyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
