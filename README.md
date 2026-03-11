@@ -43,10 +43,11 @@ A distributed constellation of AI agents that can:
 ---
 
 ## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=MrDiddyz&show_icons=true&theme=dark)
 
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDiddyz&layout=compact&theme=dark)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+
 
 ---
 
