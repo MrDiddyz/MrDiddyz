@@ -1,4 +1,6 @@
-# Hello, I'm MurMur
+Hello im MurMur 🙏🏼
+
+
 
 AI systems • Multi-agent architectures • Creative technology
 
