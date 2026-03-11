@@ -1,30 +1,72 @@
-MrDiddyz
+# 👋 Hello, I'm MurMur
 
-Founder of MurMur
+AI systems • Multi-agent architectures • Creative technology
 
-Building:
-AI agent systems
-creative AI studios
-multi-agent research systems
+Creator of **MURMUR : A Learning Constellation**  
+A modular AI system where agents collaborate, debate, and learn together.
 
-Projects
+---
 
-MurMur
-MurMur Core Engine
-MurMur Cloud Terminal
-MurMur Constellation
+## 🧠 Current Project
 
-<!--
-**MrDiddyz/MrDiddyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MURMUR is a multi-agent intelligence system built around:
 
-Here are some ideas to get you started:
+• God Agent (orchestrator)  
+• Council Agents (decision making)  
+• Specialized Agents (research, creative, critic)  
+• Job queue architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goal: build collaborative AI systems that think together.
+
+---
+
+## 🚀 Tech Stack
+
+• Next.js  
+• Supabase  
+• TypeScript  
+• AI Agents  
+• Node.js  
+
+---
+
+## 🌌 MurMur Vision
+
+A distributed constellation of AI agents that can:
+
+• research  
+• debate ideas  
+• create content  
+• analyze narratives  
+• collaborate with humans  
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+
+---
+
+## ⭐ Projects
+
+• MurMur Core  
+• MurMur Council Mode  
+• MurMur Media Engine  
+• MurMur Creator OS  
+
+---
+
+## 🤝 Collaboration
+
+Always interested in collaborating on:
+
+• AI agents  
+• creative AI tools  
+• open-source intelligence systems
+
+---
+
+⭐ If you like the MurMur vision, consider following the project.
