@@ -1,4 +1,18 @@
-## Hi there 👋
+#MrDiddyz
+
+Founder of MurMur
+
+Building:
+AI agent systems
+creative AI studios
+multi-agent research systems
+
+Projects
+
+MurMur
+MurMur Core Engine
+MurMur Cloud Terminal
+MurMur Constellation# Hi there 👋
 
 <!--
 **MrDiddyz/MrDiddyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
