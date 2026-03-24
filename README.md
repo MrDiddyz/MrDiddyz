@@ -13,7 +13,7 @@ A modular AI system where agents collaborate, debate, and learn together.
 
 MURMUR is a multi-agent intelligence system built around:
 
-• God Agent (orchestrator)  
+• 7'th Father (orchestrator)  
 • Council Agents (decision making)  
 • Specialized Agents (research, creative, critic)  
 • Job queue architecture  
